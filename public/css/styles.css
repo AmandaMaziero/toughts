@@ -246,18 +246,15 @@
   }
   
   .order-container button:hover,
+  .order-container i:hover,
   .order-container a:hover {
     color: #f6982d;
   }
   
-  .order-container span,
   .order-container button,
-  .order-container a {
-    margin: 0 10px;
-  }
-  
+  .order-container a,
   .order-container i {
-    color: #f6982d;
+    margin: 0 10px;
   }
   
   .toughts-container figure {
